@@ -9,6 +9,7 @@
     <Company>Authorize.Net</Company>
     <AssemblyName>AuthorizeNet.NetStandard</AssemblyName>
     <RootNamespace>AuthorizeNet</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <PackageReleaseNotes>0.1.0: Targets v 1.9.3 of official package.  
 Items removed/ not supported: 
 -AppSettings configuration. Use environment vars.
